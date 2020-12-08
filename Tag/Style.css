@@ -1,0 +1,12 @@
+dt{
+    background: darkslategray;
+    color: white;
+    border: 4px seagreen;
+    padding-left: 50px;
+}
+div{
+    background: seagreen;
+    color: white;
+    border: mediumseagreen;
+    padding-left: 15px;
+}
