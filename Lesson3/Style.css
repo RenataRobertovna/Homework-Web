@@ -1,0 +1,28 @@
+li {
+  list-style-image: url("img/arrow.png");
+}
+.ico1{
+
+  list-style-image: url("img/winter.png");
+}
+.spring
+{
+  list-style-type: none;
+}
+.ico2{
+  list-style-image: url("img/spring.png");
+}
+.summer
+{
+  list-style-type: none;
+}
+.ico3{
+  list-style-image: url("img/summer.png");
+}
+.autumn
+{
+  list-style-type: none;
+}
+.ico4{
+  list-style-image: url("img/autumn .png");
+}
