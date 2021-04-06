@@ -1,0 +1,14 @@
+h1{
+    font-weight: 900;
+    color: darkblue;
+    font-stretch: expanded;
+}
+h2{
+    color: grey;
+}
+h3{
+    color: grey;
+}
+p{
+    font-family: "Bookman Old Style";
+}

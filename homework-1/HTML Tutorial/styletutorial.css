@@ -1,0 +1,21 @@
+h1{
+    font-weight: 900;
+    font-stretch: expanded;
+}
+span{
+    font-weight: bold;
+}
+.pic{
+    background: lightgray;
+
+}
+.tag{
+    color: cadetblue;
+    font-weight: 50;
+    font-family: Bahnschrift;
+    background: lightgray;
+    display: inline-block;
+}
+.color{
+    color: red;
+}
